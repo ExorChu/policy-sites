@@ -1,41 +1,3 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/ExorChu/policy-sites/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ExorChu/policy-sites/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
 # Privacy Policy
 
 _Last updated December,  11th 2021_
@@ -57,7 +19,7 @@ When you visit the mobile games and applications, we may use GPS technology (or 
 
 If you do not want us to use your location for the purposes set forth above, you should turn off the location services for the mobile application located in your account settings or in your mobile phone settings and/or within the mobile application.
 
-#### Do third parties see and/or have access to information obtained by Dashbit ?
+### Do third parties see and/or have access to information obtained by Dashbit ?
 Yes. We will share your information with third parties only in the ways that are described in this privacy statement.
 
 We may disclose User Provided and Automatically Collected Information:
@@ -72,7 +34,7 @@ We may work with analytics companies to help us understand how Dashbit's games a
 
 If you’d like to opt-out from third party use of this type of information to help serve targeted advertising, please visit the section entitled “Opt-out” below.
 
-#### What are my opt-out rights?
+### What are my opt-out rights?
 There are multiple opt-out options for users of this Application:
 
 Opt-out of all information collection by uninstalling Dashbit's games and applications: You can stop all collection of information by Dashbit easily by uninstalling Dashbit's games and applications. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network. You can also request to opt-out via email, at contact@dashbit.com .
